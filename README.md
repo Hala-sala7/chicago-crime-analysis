@@ -23,7 +23,7 @@ The project has two parts:
 
 Total crime fell from **485,886** incidents in 2001 to **238,858** in 2022, a decline of about **51%**. The drop was steady until 2014, then leveled off. 2020 and 2021 were the lowest years on record, in line with the COVID-19 pandemic, followed by a partial rebound in 2022.
 
-<!-- Add the "Total Crimes per Year" chart here -->
+<img width="1044" height="502" alt="download" src="https://github.com/user-attachments/assets/c1dad079-2c20-481e-8534-39b6767a905d" />
 
 ### 2. Some crimes are rising against the trend
 
