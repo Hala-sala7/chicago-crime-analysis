@@ -1,5 +1,3 @@
-# chicago-crime-analysis
-
 # Chicago Crime Trend Analysis & Forecasting
 
 **Author:** Hala Salah
