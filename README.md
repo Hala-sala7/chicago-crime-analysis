@@ -51,7 +51,7 @@ Weapons violations more than doubled, and the rise in homicides is especially co
 - **Yearly:** crime peaks in summer (around July) and drops in winter (around February), with a seasonal swing of about **8,900 crimes per month**.
 - **Weekly:** crime is highest on **Friday** and lowest on **Sunday**, with a swing of about **96 crimes per day**.
 
-<!-- Add the seasonal decomposition chart here -->
+<img width="1183" height="484" alt="download (1)" src="https://github.com/user-attachments/assets/fd7706a4-57f7-4f45-bb14-273d77a88272" />
 
 ## Forecasting (Jan–Jun 2023)
 
@@ -64,7 +64,7 @@ For each crime, I built a manual SARIMA model (orders chosen from ACF/PACF plots
 
 For Theft, `auto_arima` had a lower AIC but performed worse on the test set, so the manual model was chosen based on out-of-sample accuracy. For Battery, both models performed similarly, and the simpler `auto_arima` model was selected.
 
-<!-- Add the final forecast comparison chart here -->
+<img width="1284" height="584" alt="download (2)" src="https://github.com/user-attachments/assets/35273d32-f3a2-4017-90ee-bebd3a15e27d" />
 
 ## Recommendations
 
